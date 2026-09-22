@@ -8,25 +8,7 @@ Certifications completed throughout my cybersecurity journey.
 
 <br>
 
-## COMPLETED
-
-`—`
-
-<br>
-
-## IN PROGRESS
-
-`—`
-
-<br>
-
-## PLANNED
-
-`—`
-
-<br>
-
----
+`-`
 
 <div align="center">
 
