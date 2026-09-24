@@ -8,7 +8,7 @@ Certifications completed throughout my cybersecurity journey.
 
 <br>
 
-`-`
+`Cisco Networking Academy — Introduction to Cybersecurity `
 
 <div align="center">
 
