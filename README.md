@@ -2,7 +2,7 @@
 
 # CERTIFICATIONS
 
-Certifications completed throughout my cybersecurity journey.
+A collection of certifications and verified badges earned during my cybersecurity journey.
 
 </div>
 
