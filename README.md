@@ -8,7 +8,9 @@ A collection of certifications and verified badges earned during my cybersecurit
 
 <br>
 
-`08/24/2026 | Cisco Networking Academy — Introduction to Cybersecurity `
+`08/24/2026 | Cisco Networking Academy — Introduction to Cybersecurity`
+
+`starting cisco Ethical Hacker course`
 
 <div align="center">
 
