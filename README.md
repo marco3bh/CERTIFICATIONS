@@ -14,7 +14,7 @@ A collection of certifications and verified badges earned during my cybersecurit
 
 `doing Penetration Testing Process on HTB`
 
-`studing for ccna`
+`studying for ccna`
 
 <div align="center">
 
