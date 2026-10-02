@@ -12,6 +12,8 @@ A collection of certifications and verified badges earned during my cybersecurit
 
 `Penetration Testing Process on HTB`
 
+'doing HTB academy path'
+
 `starting cisco Ethical Hacker course`
 
 `studying for ccna`
