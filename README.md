@@ -10,12 +10,6 @@ A collection of certifications and verified badges earned during my cybersecurit
 
 `08/24/2026 | Cisco Networking Academy — Introduction to Cybersecurity`
 
-`Penetration Testing Process on HTB`
-
-`doing HTB academy path`
-
-`starting cisco Ethical Hacker course`
-
 `studying for ccna`
 
 <div align="center">
