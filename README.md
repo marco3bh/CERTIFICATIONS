@@ -10,7 +10,7 @@ A collection of certifications and verified badges earned during my cybersecurit
 
 `08/24/2026 | Cisco Networking Academy — Introduction to Cybersecurity`
 
-`studying for ccna`
+`studying for CCNA`
 
 <div align="center">
 
