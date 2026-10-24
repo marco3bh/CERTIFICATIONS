@@ -12,7 +12,7 @@ A collection of certifications and verified badges earned during my cybersecurit
 
 `studying for CCNA`
 
-`OCSP`
+`final boss OCSP`
 
 <div align="center">
 
