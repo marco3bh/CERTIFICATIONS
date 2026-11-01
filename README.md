@@ -12,6 +12,8 @@ A collection of certifications and verified badges earned during my cybersecurit
 
 `studying for CCNA`
 
+`studying for compTIA+`
+
 `final boss OCSP`
 
 <div align="center">
